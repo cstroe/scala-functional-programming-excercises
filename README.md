@@ -1,2 +1,2 @@
-# scala-functional-programming-excercises
-A collection of excercises in the Scala language
+# scala-functional-programming-exercises
+A collection of exercises in the Scala language
